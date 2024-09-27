@@ -1,2 +1,2 @@
 # celestia-discord-bot
-Discord bot using celestia API
+Discord bot powered by Celenium API
