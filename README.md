@@ -1,6 +1,7 @@
 # celestia-discord-bot
-Discord bot powered by Celenium API
-** Warning **: this is a work in progress and currently only for demo purposes, therefore it only makes free, testnet api calls.
+Discord bot powered by Celenium API.
+
+**Warning**: this is a work in progress and currently only for demo purposes, therefore it only makes free, testnet api calls.
 
 ## Overview
 
